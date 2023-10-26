@@ -1,0 +1,26 @@
+[
+	{
+		"file": "E:\\Github\\P1CoraGit\\Source\\P1Cora\\P1Cora.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\P1CoraGit\\.vscode\\compileCommands_P1Cora\\P1Cora.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Github\\P1CoraGit\\Source\\P1Cora\\P1Cora.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\P1CoraGit\\.vscode\\compileCommands_P1Cora\\P1Cora.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Github\\P1CoraGit\\Source\\P1Cora\\P1Cora.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\P1CoraGit\\.vscode\\compileCommands_P1Cora\\P1Cora.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.3\\Engine\\Source"
+	}
+]
